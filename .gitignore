@@ -1,0 +1,27 @@
+.scannerwork
+node_modules
+dist/
+.eslintcache
+yarn.lock
+.log
+.env
+#cypress.env.json
+.DS_Store
+
+.idea
+.tern-project
+/bower_components/
+tags.*
+!app/components/Tags
+.vscode
+*.swp
+# snyk files
+.dccache
+build-metadata.json
+
+# nginx files
+/scripts/ssl/nginx/certs
+
+# testing stats
+/coverage
+/cypress/screenshots
