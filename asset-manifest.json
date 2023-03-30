@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kiranistore/static/css/main.073c9b0a.css",
+    "main.js": "/kiranistore/static/js/main.3554b661.js",
+    "static/js/787.6cc58a63.chunk.js": "/kiranistore/static/js/787.6cc58a63.chunk.js",
+    "index.html": "/kiranistore/index.html",
+    "main.073c9b0a.css.map": "/kiranistore/static/css/main.073c9b0a.css.map",
+    "main.3554b661.js.map": "/kiranistore/static/js/main.3554b661.js.map",
+    "787.6cc58a63.chunk.js.map": "/kiranistore/static/js/787.6cc58a63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3554b661.js"
+  ]
+}
